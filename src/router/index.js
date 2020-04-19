@@ -14,6 +14,16 @@ Vue.use(VueRouter)
     path: '/about',
     name: 'About',
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+  },
+  {
+    path: '/projects',
+    name: 'Project',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Projects.vue')
+  },
+  {
+    path: '/contact',
+    name: 'Contact',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
   }
 ]
 

@@ -1,0 +1,33 @@
+{
+    "name":"Modi",
+    "imgUrl":"https://pbs.twimg.com/profile_images/1249934092994375680/xX66NSZP_400x400.jpg",
+    "skills":[
+        "HTML",
+        "JavaScript",
+        "Ruby",
+        "GO",
+        "Rust",
+        "Dart",
+        "Pug",
+        "GCP",
+        "Angular",
+        "Node"
+    ],
+    "projects":[
+        {
+            "title":"Ttile1",
+            "des":"sequi provident, id reiciendis accusantium quisquam non reprehenderit fugit molestiae animi illo laborum. Ullam doloremque quia a! Quod.",
+            "link":"https://google.com"
+        },
+        {
+            "title":"Ttile2",
+            "des":"sequi provident, id reiciendis accusantium quisquam non reprehenderit fugit molestiae animi illo laborum. Ullam doloremque quia a! Quod.",
+            "link":"https://google.com"
+        },
+        {
+            "title":"Ttile3",
+            "des":"sequi provident, id reiciendis accusantium quisquam non reprehenderit fugit molestiae animi illo laborum. Ullam doloremque quia a! Quod.",
+            "link":"https://google.com"
+        }
+    ]
+}

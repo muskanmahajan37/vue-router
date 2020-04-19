@@ -11,6 +11,12 @@
         <router-link class="nav-link" to="/">Home</router-link>
       </li>
       <li class="nav-item">
+        <router-link class="nav-link" to="/projects">Projects</router-link>
+      </li>
+      <li class="nav-item">
+        <router-link class="nav-link" to="/contact">Contact</router-link>
+      </li>
+      <li class="nav-item">
         <router-link class="nav-link" to="/about">About</router-link>
       </li>
     </ul>
